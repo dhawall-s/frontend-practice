@@ -27,3 +27,5 @@ console.log(multiply)
 console.log(divide)
 console.log(mod)
 console.log(power)
+
+console.log('hello world')
